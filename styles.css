@@ -1,1 +1,23 @@
 /* your code */
+table{
+	border:1px solid black;
+	border-radius:10px;
+	border-collapse:collapse;
+}
+
+th{
+	background-color:aqua;
+	text-align:left;
+}
+th,td{
+	border-bottom:1px solid black;
+	padding:10px;
+}
+#t2,#t4{
+	background-color:rgb(211,211,211);
+}
+
+/* table,thead{
+	border:1px solid black;
+	border-radius:60px;
+} */
